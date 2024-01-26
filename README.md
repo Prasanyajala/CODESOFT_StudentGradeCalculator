@@ -8,3 +8,4 @@
 4. Grade Calculation: Assign grades based on the average percentage achieved.
 5. Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 ## this is how the program runs👀
+https://github.com/Prasanyajala/CODESOFT_StudentGradeCalculator/assets/153526672/7af40411-66d7-4273-ad46-7fca45c0c2ba
